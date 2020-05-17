@@ -136,4 +136,11 @@ footer {
     background: #f8f8f8
 /*            padding: 10px 25px;*/
 
+}@media (max-width: 992px) {
+    .video-folder {
+        margin-bottom: 40px;
+    }
+    footer {
+        padding-top: 0;
+    }
 }
